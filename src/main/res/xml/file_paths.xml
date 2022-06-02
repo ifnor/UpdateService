@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths xmlns:android="http://schemas.android.com/apk/res/android">
+<!--        <files-path name="mydata" path="images/"/>-->
+<!--        <files-path name="my_docs" path="docs/"/>-->
+        <external-path name="evPath" path="/"/>
+        <external-path name="download" path="ceshon/"/>
+        <root-path name="root_path" path="."/>
+
+    </paths>
+</resources>
